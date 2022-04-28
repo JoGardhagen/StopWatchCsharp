@@ -1,5 +1,5 @@
 ﻿using System;
-namespace stopWatchCsharp
+namespace StopWatch
 {
     public class Time
     {
