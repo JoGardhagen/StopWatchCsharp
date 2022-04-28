@@ -8,7 +8,7 @@ namespace StopWatch
 {
     public partial class ViewController : NSViewController
     {
-        Time time = new Time("0:0:0");
+        Time time = new Time("0:0:0:0");
         Timer timer = new System.Timers.Timer();
         public ViewController(IntPtr handle) : base(handle)
         {
@@ -20,7 +20,7 @@ namespace StopWatch
             base.ViewDidLoad();
             clock.StringValue = time.getCurrentTime();
             Timer timer = new System.Timers.Timer();
-            timer.Interval = 100;
+            timer.Interval = 1;
             timer.Enabled = true;
             timer.Elapsed += Timer_Elapsed;
             timer.Start();
