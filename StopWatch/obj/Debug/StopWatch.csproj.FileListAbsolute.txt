@@ -1,0 +1,16 @@
+/Users/dotnet_repon/StopWatch/StopWatch/bin/Debug/StopWatch.exe
+/Users/dotnet_repon/StopWatch/StopWatch/bin/Debug/StopWatch.pdb
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/actool/_PartialAppManifest.items
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/_ProcessedContentPath.items
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/StopWatch.csproj.AssemblyReference.cache
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/StopWatch.csproj.CoreCompileInputs.cache
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/StopWatch.exe
+/Users/dotnet_repon/StopWatch/StopWatch/obj/Debug/StopWatch.pdb
