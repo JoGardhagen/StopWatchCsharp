@@ -10,6 +10,7 @@ namespace StopWatch
     {
         Time time = new Time("0:0:0:0");
         Timer timer = new System.Timers.Timer();
+        bool running = false;
         public ViewController(IntPtr handle) : base(handle)
         {
 
@@ -26,6 +27,7 @@ namespace StopWatch
             timer.Start();
 
 
+
             // Do any additional setup after loading the view.
         }
         private void Timer_Elapsed(object sender, ElapsedEventArgs e)
@@ -33,7 +35,8 @@ namespace StopWatch
             //DateTime myDate = DateTime.Now;
             InvokeOnMainThread(() => {
                 //time.oneSecondPassed();
-                time.oneSecondPassed();
+                if(running == true) { time.oneSecondPassed(); }
+                
                 clock.StringValue = time.getCurrentTime();
             });
         }
@@ -53,6 +56,10 @@ namespace StopWatch
         partial void startButton(NSObject sender)
         {
             clock.StringValue = "clicked!";
+            if (running == false) { running = true; }
+            else running = false;
+            
+           
         }
     }
 }
