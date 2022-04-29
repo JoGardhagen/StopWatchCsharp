@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "73117B62238973CDD58FB22FE9C6A8E68BD46659",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6E2D740667ABFC1C034DD3967A336BE1E6D8EA96" : 0,
+    "73117B62238973CDD58FB22FE9C6A8E68BD46659" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F8DF2212-84C9-4939-964A-A66764FF1AC7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6E2D740667ABFC1C034DD3967A336BE1E6D8EA96" : "",
+    "73117B62238973CDD58FB22FE9C6A8E68BD46659" : "StopWatch\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "StopWatch",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "StopWatch\/obj\/Xcode\/0\/StopWatch.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:JoGardhagen\/stopWatchCsharp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6E2D740667ABFC1C034DD3967A336BE1E6D8EA96"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:JoGardhagen\/StopWatchCsharp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "73117B62238973CDD58FB22FE9C6A8E68BD46659"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-// WARNING
+﻿// WARNING
 //
 // This file has been generated automatically by Visual Studio to store outlets and
 // actions made in the UI designer. If it is removed, they will be lost.
@@ -14,6 +14,9 @@ namespace StopWatch
 	{
 		[Outlet]
 		AppKit.NSTextField clock { get; set; }
+
+		[Action ("resetButton:")]
+		partial void resetButton (Foundation.NSObject sender);
 
 		[Action ("startButton:")]
 		partial void startButton (Foundation.NSObject sender);

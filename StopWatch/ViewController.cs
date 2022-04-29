@@ -55,11 +55,14 @@ namespace StopWatch
         }
         partial void startButton(NSObject sender)
         {
-            clock.StringValue = "clicked!";
+            
             if (running == false) { running = true; }
             else running = false;
-            
-           
+        }
+        partial void resetButton(NSObject sender)
+        {
+            running = false;
+            time.timeReset("0:0:0:0");
         }
     }
 }
